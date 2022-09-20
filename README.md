@@ -3,9 +3,7 @@ Cesar Castro Salazar
 Examen.
 
 1.- Iniciando repositorio.
-
-![](Aspose.Words.6ae04b3f-3dcc-4e07-9d62-71a855879659.001.png)
-
+![Aspose Words 6ae04b3f-3dcc-4e07-9d62-71a855879659 001](https://user-images.githubusercontent.com/78839789/191274740-b5c18f77-bb34-44b8-9f76-acaf34352106.png)
 2.- Haciendo el primer commit
 
 ![](Aspose.Words.6ae04b3f-3dcc-4e07-9d62-71a855879659.002.png)
