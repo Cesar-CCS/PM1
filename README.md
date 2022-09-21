@@ -81,9 +81,10 @@ Crear una tabla
 - Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
 
 |Nombre|Usuario de github|
-|--Edwin Andres--|--[Edwin-Andres222](https://github.com/Edwin-Andres222)--|
-|--Marin Cabrera--|--[MartinCabrera137](https://github.com/MartinCabrera137)--|
-|--Angel Rocha--|--[AngelSalazarRochaITNL](https://github.com/AngelSalazarRochaITNL)--|
+|:-------------------:|---|---|---|---|
+|Edwin Andres|[Edwin-Andres222](https://github.com/Edwin-Andres222)|
+|Marin Cabrera|[MartinCabrera137](https://github.com/MartinCabrera137)|
+|Angel Rocha|[AngelSalazarRochaITNL](https://github.com/AngelSalazarRochaITNL)|
 
 Colaboradores 
 
